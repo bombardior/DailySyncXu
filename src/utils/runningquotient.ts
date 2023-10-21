@@ -53,7 +53,7 @@ export async function getRQOverView() {
                 'x-csrf-token': RQ_CSRF_TOKEN,
                 'x-requested-with': 'XMLHttpRequest',
                 'cookie': RQ_COOKIE,
-                'Referer': 'https://www.runningquotient.cn/training/overview',
+                'Referer': 'https://www.rq.run/training/overview',
                 'Referrer-Policy': 'strict-origin-when-cross-origin',
             },
         });
